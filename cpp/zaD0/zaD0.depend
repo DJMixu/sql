@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599134415 source:c:\users\k10_2pr02\documents\cccp\zad0\main.cpp
+	<iostream>
+	<cstdlib>
+	<locale.h>
+

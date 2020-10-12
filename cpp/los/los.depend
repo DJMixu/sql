@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600687982 source:c:\users\k10_2pr02\documents\cccp\los\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<locale.h>
+

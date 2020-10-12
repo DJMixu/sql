@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601476191 source:c:\users\k10_2pr02\documents\cccp\tym\main.cpp
+	"pitch.h"
+	<windows.h>
+
