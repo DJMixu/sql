@@ -6,12 +6,7 @@
     <title>Zadanie 8</title>
 </head>
 <body>
- <script>
-     var a=1;
-     while(a<1000000);
-     document.write(a++);
-
- </script>
+<!--Michał Majczek-->
     <h1>Napisz program, który dla liczby całkowitej A <100.000 podanej przez użytkownika wyświetla liczby od A do 100.000 .</h1>
        <script>
            var a=parseInt(prompt("Podaj A"));
@@ -22,48 +17,5 @@
            }
            if(a>=100000){ document.write("error");}
        </script> 
-
-         <h1>Napisz program, który wyświetla liczby całkowite od 0 do 500.000 w 10 kolumnach oddzielonych spacjami.</h1>
-         <script>
-             var a=0;
-             while(a<500000){
-                if(a%10==0)document.write("<br>");
-                document.write(a+" ");
-                a++;
-                }
-         </script>
-     
-  
-  <h1>Napisz program, który dla podanej liczby całkowitej większej od zera odpowie ile ma ona cyfr.</h1> 
-  <script>
-      var a=parseInt(prompt("Podaj A"));
-      var b=1;
-      if(a>0){
-      while(a>=10){
-    a=a/10;
-    b++;
-      
-}
-document.write(b);}
-  </script>
-
-<h1>Napisz program, który dla podanej liczby całkowitej A, wyświetla liczby od 1 do A oddzielone średnikami.</h1>
-<script>
-    var a=parseInt(prompt("Podaj A"));
-    var i =1;
-    if(a>0){
-    while(a>i){
-        
-            document.write(i++ + ";");
-            }
-            }else
-            {
-                while(a<i){
-        
-        document.write(i-- + ";");
-        }   
-            }
-</script>
-
 </body>
 </html>
