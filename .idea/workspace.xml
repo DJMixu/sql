@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae3f3e92-e7db-40c1-8499-5c7ef0ab046d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2pir_gr2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +42,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603792385432</updated>
-      <workItem from="1603792386534" duration="317000" />
+      <workItem from="1603792386534" duration="1487000" />
     </task>
+    <task id="LOCAL-00001" summary="w">
+      <created>1603792720852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603792720852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="w">
+      <created>1603792759395</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603792759395</updated>
+    </task>
+    <task id="LOCAL-00003" summary="w">
+      <created>1603792832038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603792832038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="w">
+      <created>1603793122530</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603793122530</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="w" />
+    <option name="LAST_COMMIT_MESSAGE" value="w" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1065" y="92" key="CommitChangelistDialog2" timestamp="1603793122114">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1065" y="92" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1603793122114" />
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2" timestamp="1603793124778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603793124778" />
   </component>
 </project>
