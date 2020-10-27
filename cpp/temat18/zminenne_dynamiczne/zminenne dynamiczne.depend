@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1603801185 source:c:\users\mmajc\documents\sql\cpp\zminenne_dynamiczne\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<new>
+

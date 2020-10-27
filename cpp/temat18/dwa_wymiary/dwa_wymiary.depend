@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1603801946 source:c:\users\mmajc\documents\sql\cpp\funkcja\dwa_wymiary\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstdlib>
+	<new>
+	<ctime>
+
