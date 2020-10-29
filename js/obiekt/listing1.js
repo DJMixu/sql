@@ -1,3 +1,4 @@
+//Autor Michal Majczek
 class Plane{
     brand = "Boeing";
     model = "747";
