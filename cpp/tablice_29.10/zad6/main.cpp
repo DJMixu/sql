@@ -6,7 +6,7 @@
 
 
 using namespace std;
-///Autor Micha≥ Majczek
+///Autor Micha≈Ç Majczek
 int main()
 {
 
@@ -31,7 +31,7 @@ int main()
         }
 
     }
-    cout<<s;
+    cout<<"W pliku znajduje sie "<<s<<" slow na litere 'a'\n\n";
     system("PAUSE");
     return 0;
 }
