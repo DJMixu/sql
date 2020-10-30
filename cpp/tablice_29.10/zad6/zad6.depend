@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1604008639 source:c:\users\mmajc\documents\sql\cpp\tablice_29.10\zad6\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string.h>
+	<stdlib.h>
+
