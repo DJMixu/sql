@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!--Michał Majczek-->
+<body>
+    <script>
+        alert("1.Papier 2.Kamień 3.Nożyczki");
+       let a = parseInt(prompt("Podaj wybor: "));
+       let b = Math.floor(Math.random()*((-3))+4);
+       
+       switch(b)
+       {
+            case 1: alert("Przeciwnik wybrał papier"); break;
+            case 2: alert("Przeciwnik wybrał kamień"); break;
+            case 3: alert("Przeciwnik wybrał nożyczki");break;
+
+       }
+        
+        if(a==b) alert("remis");
+        else if(a==1 && b==2 || a==2 && b==3 || a==3 && b==1) alert("wygrana");
+        else if(b==1 && a==2 || b==2 && a==3 || b==3 && a==1) alert("przegrana");
+        alert(b);
+    </script>
+</body>
+</html>

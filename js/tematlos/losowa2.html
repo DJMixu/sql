@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<!--Michał Majczek-->
+<body>
+    <script>
+       let a = parseInt(prompt("Podaj A"));
+        let b = parseInt(prompt("Podaj B"));
+        let n = parseInt(prompt("Podaj N"));
+        let r;
+        
+        for(let i=0; i<n; i++)
+        {
+        r = Math.random()*((b-a+1))+a;
+        document.write("Wylosowano "+Math.floor(r)+"<br>");
+        }
+    </script>
+</body>
+</html>

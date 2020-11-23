@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606131082 source:c:\users\mmajc\documents\sql\cpp\temat23\dziedziczenie\main.cpp
+	<iostream>
+	<conio.h>
+
